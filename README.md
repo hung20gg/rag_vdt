@@ -1,6 +1,6 @@
 # RAG with Vietnamese wiki
 
-This RAG system is built by Nguyen Quang Hung and Thieu Ngoc Mai as the assignment of NLP module at Viettel Digital Talent 2024.
+This RAG system is built by **Nguyen Quang Hung** and **Thieu Ngoc Mai** as the assignment of NLP module at Viettel Digital Talent 2024.
 
 ## What we used
 - Dataset: Vietnamese wiki 10k
