@@ -52,7 +52,6 @@ def RAG_QA_TL(llm,question,context):
         {'role':'user', 'content': user_prompt + output_instruction}
     ]
     response = llm(messages)
-    # return response[2]['content']
-  # return get_json_from_text_response(response)
+    return get_json_from_text_response(response)
 
 
